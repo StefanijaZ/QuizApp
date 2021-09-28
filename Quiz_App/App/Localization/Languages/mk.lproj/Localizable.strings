@@ -1,0 +1,203 @@
+
+//Welcome
+"Welcome" = "Здраво";
+"Tap anywhere to start" = "Кликни за почеток";
+
+//Fill information
+"Fill information to start" = "Пополни информации за почеток";
+"START" = "СТАРТ";
+"Name" = "Име";
+"CHOOSE PHOTO" = "Избери фотографија";
+"Enter your name.." = "Внеси име..";
+
+
+
+//Home
+
+"Points" = "Поени";
+"QUIZ TIME" = "Квиз";
+"CHILL TIME" = "Аудио";
+
+
+//Category
+"CHOOSE A CATEGORY" = "ИЗБЕРИ КАТЕГОРИЈА";
+" Math" = "Математика";
+" Geography" = "Географија";
+" History" = "Историја";
+" Biology" = "Биологија";
+" English" = "Англиски";
+
+//Quiz
+"Score" = "Поени";
+
+"End of quiz. Do you want to start over?" = "Крај на квизот. Дали сакаш да почниш од почеток?";
+"Awesome" = "Одлично";
+"Restart" = "Започни од почеток";
+"Back" = "Назад";
+
+
+//Listen
+"CHOOSE A STORY" = "ИЗБЕРИ АУДИО";
+"PLAY" = "СТАРТ";
+"STOP" = "СТОП";
+
+
+
+
+//Geography
+
+    //->Answers
+"Australia" = "Австралија";
+"Europe" = "Европа";
+"Africa" = "Африка";
+"Asia" = "Азија";
+
+"South" = "Јужно";
+"East" = "Исток";
+"West" = "Запад";
+"North" = "Северна";
+
+"Rome" = "Рим";
+"Genova" = "Џенова";
+"Milan" = "Милано";
+"Venice" = "Венеција";
+
+"Baltic Sea" = "Балтичко Море";
+"The Caspian Sea" = "Каспиското Море";
+"Black Sea" = "Црно Море";
+"Adriatic Sea" = "Јадранско Море";
+
+"Amazon" = "Амазон";
+"Volga" = "Волга";
+"Nile" = "Нил";
+"Niger" = "Нигер";
+
+
+    //Questions
+"How many plantets are in our solar system?" = "Колку планети има во нашиот сончев систем?";
+
+"Which is the smallest continent in the world?" = "Кој е најмалиот континент во светот?";
+
+"In which direction does the sunrise?" = "На која страна изгрева сонцето?";
+
+"Which Italian city is famous for its canals?" = "Кој италијански град е познат по каналите?";
+
+"What is the largest sea in the world?" = "Кое е најголемото море во светот?";
+
+"What is the longest river in the world?" = "Која е најдолгата река во светот?";
+
+//History
+
+    //->Answers
+
+"Leif Eriksson" = "Лејф Ериксон";
+"Galileo Galilei" = "Галилео Галилеј";
+"Martin Luter King" = "Мартин Лутер Кинг";
+"Cristiano Columbus" = "Кристијано Колумбо";
+
+"USA" = "САД";
+"Greece" = "Грција";
+"France" = "Франција";
+"Japan" = "Јапонија";
+
+"4 years (1935-1940)" = "4 години (1935-1940)";
+"5 years (1939-1944)" = "5 години (1939-1944)";
+"World War 2 didn't happend" = "II светска војна не се случи";
+"6 years (1939-1945)" = "6 години (1939-1945)";
+
+"Adolf Hitler" = "Адолф Хитлер";
+"Joseph Stalin" = "Јосиф Сталин";
+"Vladimir Lenin" = "Владимир Ленин";
+"Franklin Roosevelt" = "Френклин Рузвелт";
+
+"Tucker" = "Такер";
+"Bailey" = "Бејли";
+"Alexia" = "Алексија";
+"Bucephalus" = "Букефал";
+
+    //Questions
+
+"Who first discovered America?" = "Кој прв ја открил Америка?";
+
+"Where did the Olympic Games originate?" = "Во која држава за прв пат се одржале Олимписките игри";
+
+"How long lasted World War 2?" = "Колку долго траела Втора Светска Војна?";
+
+"Who was the leader of the Nazi party?" = "Кој беше водич на Нацистите";
+
+"What was the name of the horse of Alexandar the Great?" = "Кое било името на коњот од Александар Македонски?";
+
+"In which year happened Chernobyl disaster?" = "Во која година се случила катастрофата во Чернобил?";
+
+//Biology
+
+    //->Answers
+
+"Botanist" = "Ботаничар";
+"Biologist" = "Биологист";
+"Physicist" = "Физичар";
+"Geographist" = "Географичар";
+
+"Potatos" = "Компири";
+"Fruits" = "Овошје";
+"Vegeis" = "Зеленчук";
+"Plants" = "Растенија";
+
+
+"Omnivores" = "Омнивори";
+"Herbivore" = "Хербивори";
+"Carnivore" = "Карнивори";
+"Raccoon" = "Ракуни";
+
+"Skin" = "Кожа";
+"Heart" = "Срце";
+"Lungs" = "Бели дробови";
+"Kidneys" = "Бубрези";
+
+"Water" = "Вода";
+"Snow" = "Снег";
+"Juice" = "Сок";
+"None of above" = "Ништо од наведеното";
+
+"All types of dogs" = "Сите типови на кучиња";
+"All the plant life" = "Сите растенија";
+"All of the animal planet" = "Животинскиот свет";
+"Only the Sea planet" = "Едниствено морскиот свет";
+
+    //Questions
+
+"A person who studies biology is known as a?" = "Човекот што ја изучува биологијата е познат како?";
+
+"Botany is the study of?" = "Ботаника е наука за?";
+
+"Animals which eat both plants and other animals are knowns as what?" = "Животните што јадат и растенија и други животни се познати како?";
+
+"Which organ in the human body pupms blood?" = "Кој огран во човечкото тело пумпа крв?";
+
+"Besides light, what do trees and flowers require to grow?" = "Освен светлина, што друго им треба на дрвјата и цвеќињата за да пораснат?";
+
+"What does fauna mean?" = "Што значи фауна?";
+
+
+//English
+
+    //->Answers
+
+"Question mark (?)" = "Прашалник (?)";
+"Exclamation mark (!)" = "Извичник (!)";
+"Fullstop (.)" = "Точка (.)";
+"Comma (,)" = "Запирка (,)";
+
+    //Questions
+
+"Identify the noun in the following sentence: I live in Amsterdam?" = "Идентификувај ја именката во следната реченица: I live in Amsterdam?";
+
+"Identify the pronoun in the following sentence: They were having dinner." = "Идентификувајте ја заменката во следните реченици: They were having dinner.";
+
+"Identify the verb in the following sentence: Jack left in a hurry." = "Идентификувај го глаголот во следната реченица: Jack left in a hurry.";
+
+"Fill In The Blanks. The students are ______ their notes." = "Пополни ја празнинката. The students are ______ their notes.";
+
+"Fill In The Blanks. The doctor ___ out for ten minutes." = "Пополни ја празнинката. The doctor ___ out for ten minutes.";
+
+"Correct the statement with a suitable punctuation mark. When will you return from your dance rehearsal" = "Додади го точниот интерпукциски знак за да биде точна реченицата. When will you return from your dance rehearsal";
